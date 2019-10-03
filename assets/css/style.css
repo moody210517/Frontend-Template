@@ -1,0 +1,532 @@
+/*
+Custom css
+*/
+.color-gray {
+    background: #eeeeee; 
+}
+.color-dark{
+    color:#888888;
+}
+.color-green{
+    color:#00ADC5 !important;
+}
+.color-footer{
+    background: #7f7f7f;
+}
+.color-white{
+    color: #ffffff;
+}
+.color-img-tilte{
+    background: #a9d18e;
+}
+.center{
+    margin:auto;
+}
+.lato{
+    font-family: 'LatoWeb'; 
+    font-style: normal;    
+}
+
+
+.tour-dec h2 
+{
+    color: #f24d52;
+    font-family: SourceS;
+    font-size: 18px;
+	margin:0px 0px 5px;
+}
+.tour-dec
+{
+    font-size:14px;	
+    bottom: 0;
+    padding:0px 0px 0px;
+    opacity: 0.6;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    left:0;
+    right:0;
+}
+.tour-dec > a
+{
+    padding-left: 145px;    
+    padding-right:145px;
+    margin: auto;
+    
+}
+
+
+.img{
+    width:100%; 
+    margin: 0em;    
+}
+
+.image-dec
+{
+    font-size:14px;	
+    bottom: 57px;
+    padding:0px 0px 0px;
+    opacity: 0.6;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    left:0.0em;
+    right:0.0em;
+}
+.image-dec > a
+{
+    padding-left: 10px;    
+    padding-right:10px;
+    padding-bottom: 10px;
+    margin: auto;    
+}
+
+
+.image-title
+{
+    font-size:14px;	
+    top: 0.1em;
+    padding:0px 0px 0px;        
+    background-color: #a9d18e;
+    position: absolute;
+    left:0.1em;    
+}
+.image-title > a
+{
+    padding-left: 10px;    
+    padding-right:10px;    
+    margin: auto;    
+}
+
+.image-time{
+    float: right;
+    text-align: right;
+    width: 100%;
+}
+.image-shadow{
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), 0 -1px 0px rgba(0, 0, 0, 0.015);
+}
+
+.img-learning{    
+    width: 100%;
+    height: auto;
+}
+
+
+.full-content{
+    bottom: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+
+.page-footer {
+    position: relative;
+    left: 0;
+    right: 0;
+    margin-bottom: -20px !important;
+    margin:auto;
+    
+}
+
+.search-input{
+    padding: 10px;
+    font-size: 16px;    
+}
+.mt30{
+    margin-top: 30px;
+}
+
+.icon-36{
+    width:36px;
+    height:36px;
+}
+.icon-logo{
+    width:30px;
+    height:41px;
+}
+.fill_height{
+    height:100%;
+}
+
+.list-body div:hover .image {
+    opacity: 0.3;
+}
+
+.expand-card:hover{
+    /* background: gray; */
+    margin:-5px;
+
+}
+
+  
+
+/* new styles */
+
+.tiempos-headline{
+    font-family: 'TiemposHeadline' !important;         
+    font-style: normal;    
+}
+
+.tiempos-headline48{
+    font-family: 'TiemposHeadline' !important;         
+    font-style: normal;  
+    font-size: 48px;  
+    color: #222222 !important;
+}
+
+.tiempos-headline64{
+    font-family: 'TiemposHeadline' !important;         
+    font-style: normal;  
+    font-size: 64px;  
+    color: white !important;
+}
+
+
+
+
+
+.tiemposreg{
+    font-family: 'Tiempos' !important;         
+    font-style: normal;    
+}
+
+.tiemposreg64{
+    font-family: 'Tiempos' !important;         
+    font-style: normal;    
+    font-size: 64px;  
+    color: white !important;
+}
+
+
+.tiempos-bold{
+    font-family: 'TiemposBold' !important;     
+    margin: 0px !important;
+    font-style: normal;    
+}
+
+
+.tiempos-bold48{
+    font-family: 'TiemposBold' !important; 
+    font-size: 48px;
+    margin: 0px !important;
+    font-style: normal;    
+}
+
+
+
+.tiempos-bold64{
+    font-family: 'TiemposBold' !important; 
+    font-size: 64px;
+    margin: 0px !important;
+    font-style: normal;    
+}
+
+.tiempos-reg{
+    font-family: 'TiempoText' !important;         
+    font-style: normal;    
+}
+
+.tiempos-reg24{
+    font-family: 'TiempoText' !important;         
+    font-style: normal;    
+    font-size: 24px;
+    color: #222222 !important;
+}
+
+
+.tiempos-text{
+    font-family: 'TiempoText' !important;  
+    color: #222222 !important;
+    font-style: normal;    
+}
+
+.tiempos-text14{
+    font-family: 'TiempoText' !important;  
+    color: #222222 !important;
+    font-size: 14px !important;
+    font-style: normal;    
+}
+
+.tiempos-text16{
+    font-family: 'TiempoText' !important;  
+    color:#222222 !important;
+    font-size:16px !important;
+    font-style: normal;
+}
+
+.tiempos-text18{
+    font-family: 'TiempoText' !important;  
+    color: #222222 !important;
+    font-size: 18px !important;
+    font-style: normal;    
+    line-height: 32px;
+}
+
+.tiempos-text20{
+    font-family: 'TiempoText' !important;  
+    color: white !important;
+    font-size: 18px !important;
+    font-style: normal;    
+}
+
+
+
+.tiempos-text22{
+    font-family: 'TiempoText' !important; 
+    font-size: 22px;
+    color: #222222 !important;
+    font-style: normal;    
+}
+.tiempos-text24{
+    font-family: 'TiempoText' !important; 
+    font-size: 22px;
+    color: #222222 !important;
+    font-style: normal;    
+}
+
+
+
+.larsreg{
+    font-family: 'Larsseit' !important;        
+    font-style: normal;        
+}
+
+.lars{
+    font-family: 'Larsseit' !important;    
+    color: #222222 !important;
+    font-style: normal;        
+}
+
+
+.larsreg16{
+    font-family: 'Larsseit' !important;        
+    font-style: normal;      
+    font-size: 16px;  
+}
+
+
+.lars18{
+    font-family: 'Larsseit' !important;    
+    color: #222222 !important;
+    font-size:18px !important;
+    font-style: normal; 
+}
+
+.lars16{
+    font-family: 'Larsseit' !important;    
+    color: #222222 !important;
+    font-style: normal;        
+    font-size:16px;
+}
+
+.lars14{
+    font-family: 'Larsseit' !important;    
+    color: #222222 !important;
+    font-size:14px !important;
+    font-style: normal; 
+}
+
+.larsseit{
+    font-family: 'Larsseit' !important; 
+    font-size: 16px !important;
+    font-style: normal;        
+}
+
+.menu_item_font{
+    font-family: 'Larsseit' !important; 
+    font-size: 16px !important;
+    color:#222222 !important;
+    font-style: normal;    
+}
+
+.larsbold{
+    font-family: 'LarsseitBold' !important;    
+    color: #222222 !important;
+    font-style: normal;           
+}
+
+.larsboldnew{
+    font-family: 'LarsseitBoldNew' !important;    
+    color: #222222 !important;
+    font-style: normal;           
+}
+
+.larsboldnew24{
+    font-family: 'LarsseitBoldNew' !important;    
+    color: #222222 !important;
+    font-style: normal;      
+    font-size: 24px;    
+}
+
+
+.larsboldnew32{
+    font-family: 'LarsseitBoldNew' !important;    
+    color: #222222 !important;
+    font-style: normal;      
+    font-size: 32px;    
+}
+
+
+
+.larsbold14{
+    font-family: 'LarsseitBold' !important;    
+    color: #222222 !important;
+    font-style: normal;     
+    font-size: 18px;        
+}
+
+
+.larsbold18{
+    font-family: 'LarsseitBold' !important;    
+    color: #222222 !important;
+    font-style: normal;     
+    font-size: 18px;        
+}
+.larsbold24{
+    font-family: 'LarsseitBold' !important;    
+    color: #222222 !important;
+    font-style: normal;      
+    font-size: 24px;  
+}
+
+.larsbold32{
+    font-family: 'LarsseitBold' !important;    
+    color: #222222 !important;
+    font-style: normal;      
+    font-size: 32px;  
+}
+.larsbold48{
+    font-family: 'LarsseitBold' !important;    
+    color: #222222 !important;
+    font-style: normal;      
+    font-size: 48px;  
+}
+
+
+.main-bg{
+    background: #222222;
+}
+.main-color{
+    color: 222222 !important;
+}
+.bg-color{
+    color:#F6F5F2 !important;
+}
+.bg-footer{
+    background:#333333 !important;
+}
+
+span.main-color{
+    color: 222222;
+}
+.highlight-color{
+    color:#DB8C10 !important;
+}
+.btn-bg{
+    background: #222222;
+    color: white;
+}
+.menu-text{
+    font-family: 'Larsseit';
+    font-size: 16px;
+    line-height: 24px;
+}
+.title-text{    
+    font-size: 64px;
+    line-height: 72px;
+    /* identical to box height, or 112% */    
+    text-align: center;
+}
+
+
+.sub-text{    
+    font-size: 24px;
+    line-height: 40px;
+    /* identical to box height, or 167% */
+    text-align: center;
+}
+
+.overview-right0{
+    position: absolute;
+    left: 50%;    
+}
+
+
+@media screen and (min-width: 1025px) /* Desktop */ {
+    .overview-right{
+        position: absolute;
+        right: 20%;
+    }
+
+    .overview-right50{
+        position: absolute;
+        right: 0%;
+        width:60%;
+    }
+
+}
+
+
+@media screen  and (max-width: 1024px) /* Tablet */ {
+    .overview-right{
+        position: absolute;
+        right: 0%;        
+    }
+    .overview-right50{
+        position: absolute;
+        right: 0%;
+        width:60%;
+    }
+}
+
+@media screen and (max-width: 500px) /* Mobile */ {
+    .overview-right{
+        position: absolute;
+        right: 0%;
+    }
+    .overview-right50{
+        position: absolute;
+        right: 0%; 
+        width:60%;
+    }
+}
+
+.overview-left{
+    position: absolute;
+    left: 0%;
+    width:83.4%;
+}
+.overview-left50{
+    position: absolute;
+    left: 0%;
+    width:40%;
+}
+      
+
+ol {
+    margin: 0 0 1.5em;
+    padding: 0;
+    counter-reset: item;
+  }
+  
+  ol > li {
+    margin: 0;
+    padding: 0 0 0 2em;
+    text-indent: -1.2em;
+    list-style-type: none;
+    counter-increment: item;
+  }
+  
+  ol > li:before {
+    display: inline-block;
+    width: 1em;
+    padding-right: 0.5em;
+    font-weight: bold;
+    text-align: right;
+    content: counter(item) ".";
+  }
+
+  .mx-right{
+      float:right;
+  }
