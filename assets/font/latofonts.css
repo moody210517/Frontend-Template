@@ -1,0 +1,94 @@
+/* Webfont: tiempos-headline-cufonfonts */@font-face {
+    font-family: 'Tiempos';
+    src: url('fonts/TiemposHeadline-Regular.otf'); /* IE9 Compat Modes */
+    src: url('fonts/TiemposHeadline-Regular.otf') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/TiemposHeadline-Regular.otf') format('otf'), /* Modern Browsers */
+         url('fonts/TiemposHeadline-Regular.otf') format('woff'), /* Modern Browsers */
+         url('fonts/TiemposHeadline-Regular.otf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: tiempos-headline-cufonfonts */@font-face {
+    font-family: 'TiemposBold';
+    src: url('fonts/TiemposHeadline-Bold.otf'); /* IE9 Compat Modes */
+    src: url('fonts/TiemposHeadline-Bold.otf') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/TiemposHeadline-Bold.otf') format('otf'), /* Modern Browsers */
+         url('fonts/TiemposHeadline-Bold.otf') format('woff'), /* Modern Browsers */
+         url('fonts/TiemposHeadline-Bold.otf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: tiempos-headline-cufonfonts */@font-face {
+    font-family: 'TiemposHeadline';
+    src: url('fonts/TiemposHeadlineWeb-Black.eot'); /* IE9 Compat Modes */
+    src: url('fonts/TiemposHeadlineWeb-Black.eot') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/TiemposHeadlineWeb-Black.woff') format('woff'), /* Modern Browsers */
+         url('fonts/TiemposHeadlineWeb-Black.woff') format('woff'), /* Modern Browsers */
+         url('fonts/TiemposHeadlineWeb-Black.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+
+/* Webfont: tiempos-headline-cufonfonts */@font-face {
+    font-family: 'Larsseit';
+    src: url('fonts/3A2667_3_0.ttf'); /* IE9 Compat Modes */
+    src: url('fonts/3A2667_3_0.ttf') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/3A2667_3_0.ttf') format('ttf'), /* Modern Browsers */
+         url('fonts/3A2667_3_0.ttf') format('woff'), /* Modern Browsers */
+         url('fonts/3A2667_3_0.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: tiempos-headline-cufonfonts */@font-face {
+    font-family: 'LarsseitBold';
+    src: url('fonts/Larsseit Bold Bold.ttf'); /* IE9 Compat Modes */
+    src: url('fonts/Larsseit Bold Bold.ttf') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/Larsseit Bold Bold.ttf') format('ttf'), /* Modern Browsers */
+         url('fonts/Larsseit Bold Bold.ttf') format('woff'), /* Modern Browsers */
+         url('fonts/Larsseit Bold Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+/* Webfont: tiempos-headline-cufonfonts */@font-face {
+    font-family: 'TiempoText';
+    src: url('fonts/TiemposTextWeb-Regular.eot'); /* IE9 Compat Modes */
+    src: url('fonts/TiemposTextWeb-Regular.eot') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/TiemposTextWeb-Regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/TiemposTextWeb-Regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/TiemposTextWeb-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+
+/* Webfont: tiempos-headline-cufonfonts */@font-face {
+    font-family: 'LarsseitBoldNew';
+    src: url('fonts/3A2667_0_0.eot'); /* IE9 Compat Modes */
+    src: url('fonts/3A2667_0_0.eot') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/3A2667_0_0.woff') format('woff'), /* Modern Browsers */
+         url('fonts/3A2667_0_0r.ttf') format('ttf'), /* Modern Browsers */
+         url('fonts/3A2667_0_0.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+
+
+
+
