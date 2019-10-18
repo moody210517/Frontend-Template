@@ -399,7 +399,8 @@ a{
         margin-bottom: 15rem;
     }
     .overview-album img{
-        width: 95%;   
+        /* width: 95%;    */
+        width:18.75rem;
         height: 12.75rem;
         margin-right: 0px;
     }
@@ -432,6 +433,7 @@ a{
 
  
     .search_title{
+        display: none;
         margin-left: 1rem;
         margin-right: 1rem;
     }
@@ -507,7 +509,7 @@ a{
         margin-left: 2rem;     
     }
     .blog_overview_top_container{
-        margin-top: 3rem;
+        margin-top: 2rem;
         padding-bottom: 4rem;
     }
     
@@ -602,6 +604,12 @@ a{
     .music_review_view_more{
         display: none;
     }
+    
+    .music_review_view_more_recording{
+        margin-left:0rem; 
+        margin-top: 1.5rem;
+    }
+
     .music_review_view_more_recording img{
         padding-right: 1rem;
     }
@@ -1177,8 +1185,13 @@ a{
         height: 22.875;
     } 
 
-    .blog_overview_music_background{
-        display:none;
+
+    .blog_overview_music_background{      
+        margin-top: 13rem;
+        width: 624px;
+        height: 344px;
+        margin-left: auto;
+        right: 0;
     }
 
     .overview-album{
@@ -1198,11 +1211,7 @@ a{
     }
     
    
-    .search_title{
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-    
+
     /* .col-blog-article-news-left-pan {
         flex: 0 0 100%;
         max-width: 100%; 
@@ -1306,6 +1315,7 @@ a{
    
 
     .music_review_direction{
+        margin-top: 5rem;
         display: flex;
         flex-direction: row-reverse;
     }
@@ -1377,6 +1387,9 @@ a{
         margin-right: 3rem;
     }
 
+    .music_review_view_more_recording{
+        margin-left:31.875rem;         
+    }
     .music_review_view_more_recording img{
         padding-right: 1rem;
     }

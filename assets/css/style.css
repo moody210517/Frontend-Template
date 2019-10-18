@@ -1447,7 +1447,9 @@ a{
 
 
 
-
+.music_review_view_more_recording{
+    margin-left:auto; margin-top: 4.125rem;
+}
 
 .music_review_view_more_recording a{
     margin: 0 0.5rem 0 0 !important;
