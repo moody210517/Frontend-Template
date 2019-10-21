@@ -1912,6 +1912,9 @@ a{
 .p12{
     padding-right: 12rem; padding-left:12rem;
 }
+.blog_article_mt_4{
+    margin-top: 2rem;
+}
 
 /* boot strap part  */
 /* mobile device  576px*/

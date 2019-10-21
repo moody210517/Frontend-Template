@@ -497,10 +497,12 @@ a{
         border-top: 1px solid rgba(0,0,0,0.1);
         border-bottom:  1px solid rgba(0,0,0,0.1);
     }
-
     .scrollmenu img{
         margin-left: 1rem;
-        display: inline;        
+        padding: 0 0 0 0 !important;
+        width: 0.6875rem ;
+        height: 0.6875rem;
+        display: inline;             
     }
     .scrollmenu a {
         display: inline-block;        
@@ -809,6 +811,58 @@ a{
         margin-left: 1rem !important;
     }
 
+    .title{
+        padding: 3rem 0 3rem 0 !important;
+    }
+
+    .title h1{
+        font-size: 0.875rem;
+        line-height: 1.5rem;
+    }
+    .title h2{
+        font-size: 2rem;
+        line-height: 2.25rem;
+    }
+
+    .title h3{
+        font-size: 0.75rem;
+        line-height: 1.5rem;
+    }
+    .title h3 span{
+        font-size: 0.75rem;
+        line-height: 1.5rem;
+    }
+
+    
+    .blog h3{
+        font-size: 1.125rem;
+        line-height: 2rem;
+    }
+    .blog h2{
+        font-size: 1.25rem;
+        line-height: 1.5rem;
+    }
+    .blog h4{
+        font-size: 0.875rem;
+        line-height: 1.625;
+    }
+
+    .order_list_item  h2{
+        font-size: 1.125rem;
+    }
+    .order_list_item  h2{
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+    .blog_article_mt_4{
+        margin-top: 0rem;
+    }
+
+    .you-like{
+        margin:4rem 1rem 2rem 1rem !important;
+        font-size: 2rem;
+        line-height: 2.5rem;        
+    }
 
 
 }
@@ -1483,6 +1537,51 @@ a{
         right: 3rem;
     }
 
+    .title{
+        padding: 3rem 0 3rem 0 !important;
+    }
+
+    .title h1{
+        font-size: 0.875rem;
+        line-height: 1.5rem;
+    }
+    .title h2{
+        font-size: 2rem;
+        line-height: 2.25rem;
+    }
+
+    .title h3{
+        font-size: 0.75rem;
+        line-height: 1.5rem;
+    }
+    .title h3 span{
+        font-size: 0.75rem;
+        line-height: 1.5rem;
+    }
+   
+    .blog h3{
+        font-size: 1.125rem;
+        line-height: 2rem;
+    }
+    .blog h2{
+        font-size: 1.25rem;
+        line-height: 1.5rem;
+    }
+    .blog h4{
+        font-size: 0.875rem;
+        line-height: 1.625;
+    }
+
+    .order_list_item  h2{
+        font-size: 1.125rem;
+    }
+    .order_list_item  h2{
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+    .blog_article_mt_4{
+        margin-top: 0rem;
+    }
 
 }
 
